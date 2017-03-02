@@ -8,7 +8,7 @@ fetch('http://www.omdbapi.com/?s=Back+To+The+Future&plot=short&r=json')
   .then(res => res.json())
   .then(movies => 
     ReactDOM.render(
-      <App />,
+      <App movies={movies} />,
       document.getElementById('root')
   )
 )
