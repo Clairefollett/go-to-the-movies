@@ -9,6 +9,15 @@
   "devDependencies": {
     "react-scripts": "0.9.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clairefollett/go-to-the-movies.git"
+  },
+  "author": "Claire Follett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clairefollett/go-to-the-movies/issues"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
