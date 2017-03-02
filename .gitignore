@@ -1,6 +1,5 @@
 ### Production ###
 /coverage
-ignore.js
 
 ### Testing ###
 /build
